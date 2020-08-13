@@ -1,0 +1,60 @@
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csprojAssemblyReference.cache
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.AssemblyInfo.cs
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.deps.json
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.dll
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.pdb
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csproj.CopyComplete
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.dll
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.pdb
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.deps.json
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.dll
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.pdb
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csprojAssemblyReference.cache
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.AssemblyInfo.cs
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csproj.CopyComplete
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.dll
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.pdb
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.deps.json
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.dll
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.pdb
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csprojAssemblyReference.cache
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.AssemblyInfo.cs
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csproj.CopyComplete
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.dll
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.pdb
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.deps.json
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.dll
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.pdb
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csprojAssemblyReference.cache
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.AssemblyInfo.cs
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csproj.CopyComplete
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.dll
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.pdb
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.deps.json
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.dll
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Repository.pdb
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csprojAssemblyReference.cache
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.AssemblyInfo.cs
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.csproj.CopyComplete
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.dll
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\netcoreapp3.1\EmployeeManagement.Repository.pdb

@@ -1,0 +1,44 @@
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.deps.json
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfo.cs
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement.Web\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.deps.json
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfo.cs
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\Noor All Safaet\source\repos\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csprojAssemblyReference.cache
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.deps.json
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csprojAssemblyReference.cache
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfoInputs.cache
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfo.cs
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\nu\Downloads\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.deps.json
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csprojAssemblyReference.cache
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfoInputs.cache
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfo.cs
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\nu\Pictures\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.deps.json
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csprojAssemblyReference.cache
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfoInputs.cache
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfo.cs
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\nu\Downloads\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb

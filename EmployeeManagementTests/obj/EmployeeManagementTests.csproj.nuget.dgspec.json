@@ -1,0 +1,465 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagementTests\\EmployeeManagementTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Data\\EmployeeManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Data\\EmployeeManagement.Data.csproj",
+        "projectName": "EmployeeManagement.Data",
+        "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Data\\EmployeeManagement.Data.csproj",
+        "packagesPath": "C:\\Users\\nu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj",
+        "projectName": "EmployeeManagement.Repository",
+        "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj",
+        "packagesPath": "C:\\Users\\nu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Data\\EmployeeManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Data\\EmployeeManagement.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Service\\EmployeeManagement.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Service\\EmployeeManagement.Service.csproj",
+        "projectName": "EmployeeManagement.Service",
+        "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Service\\EmployeeManagement.Service.csproj",
+        "packagesPath": "C:\\Users\\nu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj": {
+                "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj"
+              },
+              "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.ViewModel\\EmployeeManagement.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.ViewModel\\EmployeeManagement.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.ViewModel\\EmployeeManagement.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.ViewModel\\EmployeeManagement.ViewModel.csproj",
+        "projectName": "EmployeeManagement.ViewModel",
+        "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.ViewModel\\EmployeeManagement.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\nu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Data\\EmployeeManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Data\\EmployeeManagement.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+        "projectName": "EmployeeManagement.Web",
+        "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+        "packagesPath": "C:\\Users\\nu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj": {
+                "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj"
+              },
+              "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Service\\EmployeeManagement.Service.csproj": {
+                "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Service\\EmployeeManagement.Service.csproj"
+              },
+              "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.ViewModel\\EmployeeManagement.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.ViewModel\\EmployeeManagement.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUi": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagementTests\\EmployeeManagementTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagementTests\\EmployeeManagementTests.csproj",
+        "projectName": "EmployeeManagementTests",
+        "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagementTests\\EmployeeManagementTests.csproj",
+        "packagesPath": "C:\\Users\\nu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagementTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj": {
+                "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Repository\\EmployeeManagement.Repository.csproj"
+              },
+              "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Service\\EmployeeManagement.Service.csproj": {
+                "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Service\\EmployeeManagement.Service.csproj"
+              },
+              "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj": {
+                "projectPath": "C:\\Users\\nu\\Downloads\\EmployeeManagement\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "AutoFixture.Xunit2": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "Moq.Sequences": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.console": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
